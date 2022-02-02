@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Research,Python,Numpy,Pandas,Seaborn,Matplotlib,HTML,CSS,Javascript,Databases,Algorithms and Data Structure**
 
-- 📫 How to reach me **nishatahmedsamrin98@gmail.com**
+- 📫 How to reach me **nishat16-380@diu.edu.bd**
 
 - 📄 Know about my research [https://www.researchgate.net/profile/Nishat-Samrin?ev=hdr_xprf&_sg=AEmyaVBN8ieWeh5S_DWk-eGf7iuMjzPdOh0zUOe2eRDwB_ni41lp4ixm6ku4Cvq1OktMLC0mch0l_5HHpn4mVkX2](https://www.researchgate.net/profile/Nishat-Samrin?ev=hdr_xprf&_sg=AEmyaVBN8ieWeh5S_DWk-eGf7iuMjzPdOh0zUOe2eRDwB_ni41lp4ixm6ku4Cvq1OktMLC0mch0l_5HHpn4mVkX2)
 
